@@ -1,6 +1,6 @@
 {
   "name": "ng-mat-theme-picker",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/Tonksi/ng-mat-theme-picker"
@@ -14,5 +14,6 @@
   },
   "dependencies": {
     "tslib": "^2.0.0"
-  }
+  },
+  "license": "ISC"
 }
